@@ -34,4 +34,4 @@
 ~~~~
 
 
-[Javadoc](https://github.com/rlaquddn05/tetris/blob/master/Tetris/doc/index.html)
+[Javadoc](https://rlaquddn05.github.io/tetris/Tetris/doc/index.html)
