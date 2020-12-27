@@ -1,4 +1,3 @@
-~~~~
 1) 이클립스에서 프로젝트를 깃에 바로 올리는 방법 
   2) readme.md 추가 (도큐먼트 링크, 시연 동영상 유튜브 링크) 
 	ㄱ. 프로젝트 소개 (메인 주제) 
@@ -26,8 +25,6 @@
 		- 나는 ~~~~ 게 구현했는데, ~~~~ 방법도 좋을 것 같다.
 	ㅁ. 더 넣고 싶은 멘트가 있으면 추가
 	ㅂ. 동영상 링크(유튜브 외부 링크) 및 섬네일 
-
-~~~~
 
 <div>
 [시연영상]<br><a href="https://www.youtube.com/watch?v=CrOOapnzwMk" target="_blank"><image src = "https://img.youtube.com/vi/CrOOapnzwMk/mqdefault.jpg"></a>	
