@@ -26,16 +26,12 @@
 		- 나는 ~~~~ 게 구현했는데, ~~~~ 방법도 좋을 것 같다.
 	ㅁ. 더 넣고 싶은 멘트가 있으면 추가
 	ㅂ. 동영상 링크(유튜브 외부 링크) 및 섬네일 
-<div>
-	<a href="https://www.youtube.com/watch?v=비디오id" target="_blank"><image src = "https://img.youtube.com/vi/비디오id/mqdefault.jpg"></a>	
 
-</div>
-	ㅅ. Javadoc 링크(repo 내부 링크)
 ~~~~
 
 <div>
-	<a href="https://www.youtube.com/watch?v=CrOOapnzwMk" target="_blank"><image src = "https://img.youtube.com/vi/CrOOapnzwMk/mqdefault.jpg"></a>	
-
+[시연영상]
+<a href="https://www.youtube.com/watch?v=CrOOapnzwMk" target="_blank"><image src = "https://img.youtube.com/vi/CrOOapnzwMk/mqdefault.jpg"></a>	
 </div>
 
 [Javadoc](https://rlaquddn05.github.io/tetris/Tetris/doc/index.html)     
