@@ -30,8 +30,7 @@
 ~~~~
 
 <div>
-[시연영상]    
-<a href="https://www.youtube.com/watch?v=CrOOapnzwMk" target="_blank"><image src = "https://img.youtube.com/vi/CrOOapnzwMk/mqdefault.jpg"></a>	
+[시연영상]<br><a href="https://www.youtube.com/watch?v=CrOOapnzwMk" target="_blank"><image src = "https://img.youtube.com/vi/CrOOapnzwMk/mqdefault.jpg"></a>	
 </div>
 
 [Javadoc](https://rlaquddn05.github.io/tetris/Tetris/doc/index.html)     
