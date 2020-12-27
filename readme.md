@@ -30,7 +30,7 @@
 ~~~~
 
 <div>
-[시연영상]
+[시연영상]    
 <a href="https://www.youtube.com/watch?v=CrOOapnzwMk" target="_blank"><image src = "https://img.youtube.com/vi/CrOOapnzwMk/mqdefault.jpg"></a>	
 </div>
 
